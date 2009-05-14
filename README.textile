@@ -1,14 +1,11 @@
 h2. OOCSS TextMate Bundle
 
-This TextMate bundle provides snippets for use with
-"OOCSS framework":http://wiki.github.com/stubbornella/oocss.
+This TextMate bundle provides snippets for use with "OOCSS framework":http://wiki.github.com/stubbornella/oocss.
 
 h3. Grids
 
-Currently the bundle comes with tab triggers for lines (@line@) and grid units
-(@unit@, @1of1@, @1of2@, etc.).
+Currently the bundle comes with tab triggers for lines (@line@) and grid units (@unit@, @1of1@, @1of2@, etc.).
 
 h3. Modules
 
-It also handles modules, and the associated header, body, and footer, with
-@mod@, @hd@, @bd@, and @ft@.
+It also handles modules, and the associated header, body, and footer, with @mod@, @hd@, @bd@, and @ft@.
