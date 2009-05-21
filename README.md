@@ -4,7 +4,7 @@ This TextMate bundle provides snippets for use with [OOCSS framework](http://wik
 
 ### Install
 
-**A. Recommended:** Use [GetBundles](http://svn.textmate.org/trunk/Review/Bundles/GetBundles.tmbundle/).
+**A. Recommended:** Use [GetBundles](http://svn.textmate.org/trunk/Review/Bundles/GetBundles.tmbundle/). Alex Payne has a [good introduction](http://al3x.net/2008/12/03/how-i-use-textmate.html) to it.
 
 B. With Git:
 
