@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="mod simple tabs"&gt;
+	&lt;b class="top"&gt;&lt;b class="tl"&gt;&lt;/b&gt;&lt;b class="tr"&gt;&lt;/b&gt;&lt;/b&gt;
+	&lt;div class="inner"&gt;
+		&lt;div class="hd"&gt;
+			&lt;ul class="tabControl"&gt;
+				$0
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;div class="bd"&gt;
+			&lt;ul&gt;
+
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;b class="bottom"&gt;&lt;b class="bl"&gt;&lt;/b&gt;&lt;b class="br"&gt;&lt;/b&gt;&lt;/b&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Tabs</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tbs</string>
+	<key>uuid</key>
+	<string>474630A3-A892-4770-9693-A180846D440D</string>
+</dict>
+</plist>
