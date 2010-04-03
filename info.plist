@@ -21,9 +21,23 @@
 		<array>
 			<string>CCFC0D0D-EC2B-4F86-A8EF-C6722D8D3EF3</string>
 			<string>986B2185-27B0-4CE5-82DE-7524C1710139</string>
+			<string>867DAECB-815E-4FE1-B5AE-059E60442D53</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>867DAECB-815E-4FE1-B5AE-059E60442D53</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>474630A3-A892-4770-9693-A180846D440D</string>
+					<string>F9B104C9-1697-4D09-B6CB-3F6E58C36D0E</string>
+					<string>7E783C80-8487-486F-B9D0-AA1C7C459DC8</string>
+					<string>54A84DDB-2B10-434D-A49C-6FC8617FE1F1</string>
+					<string>661F9819-B60C-4C5C-9CB7-ED3D218A3094</string>
+				</array>
+				<key>name</key>
+				<string>Tabs</string>
+			</dict>
 			<key>986B2185-27B0-4CE5-82DE-7524C1710139</key>
 			<dict>
 				<key>items</key>
@@ -32,6 +46,7 @@
 					<string>7B123F40-8BA2-4EAD-9CE0-ADBBDA384C3B</string>
 					<string>BB7E5C2F-CF7F-4E38-8007-BDE91084B09D</string>
 					<string>0B3556C0-A20D-40A3-BF17-525CC07D0C6F</string>
+					<string>A5D57572-914A-418A-8703-69871F6CC04D</string>
 				</array>
 				<key>name</key>
 				<string>Modules</string>
@@ -57,6 +72,12 @@
 		<string>BB7E5C2F-CF7F-4E38-8007-BDE91084B09D</string>
 		<string>8338098B-9D5B-44CE-A534-AEF7D7FF55D1</string>
 		<string>0B3556C0-A20D-40A3-BF17-525CC07D0C6F</string>
+		<string>F9B104C9-1697-4D09-B6CB-3F6E58C36D0E</string>
+		<string>7E783C80-8487-486F-B9D0-AA1C7C459DC8</string>
+		<string>661F9819-B60C-4C5C-9CB7-ED3D218A3094</string>
+		<string>54A84DDB-2B10-434D-A49C-6FC8617FE1F1</string>
+		<string>474630A3-A892-4770-9693-A180846D440D</string>
+		<string>A5D57572-914A-418A-8703-69871F6CC04D</string>
 		<string>E67B9232-97C5-4EE5-B68E-D0007BD44191</string>
 		<string>F83869EA-03D0-4452-9733-B68B2B7FA135</string>
 		<string>4AB2CC4B-8305-4712-B4BD-0CF0904B2191</string>
@@ -68,6 +89,7 @@
 		<string>DE65F2A2-F2AF-46F9-BFC5-6F96ED83A8D9</string>
 		<string>F476983C-1094-4690-AEB0-8D4DD4A02D2E</string>
 		<string>9C724079-CC45-414C-AA9C-F1FCC4AA1C36</string>
+		<string>771549DC-574A-401A-A784-20049D095C5F</string>
 	</array>
 	<key>uuid</key>
 	<string>F9112436-0DE4-41FF-9EE3-C303D9279FD9</string>
