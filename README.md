@@ -30,7 +30,7 @@ Fire up the Terminal and run the following commands.
 
 ## Usage ##
 
-Currently the bundle supports most elements used in OOCSS. These include grids, modules, and tabs, as well as the OOCSS template.
+Currently the bundle supports most elements used in OOCSS. These include grids, modules, tabs, and breadcrumbs, as well as the OOCSS template.
 
 ### Grids ###
 
@@ -43,3 +43,7 @@ It also handles modules, and the associated header, body, and footer, with `mod`
 ### Tabs ###
 
 A full tab module can be created with `tbs` and the associated tabs with `tb`. To create an area for tab controls, such as a close button, use `tbcs` and add the controls with `tbc`. Tab body sections can be created with `tbb`.
+
+### Breadcrumbs ###
+
+The tab trigger for the breadcrumbs element is `bcs`, while an individual breadcrumb can be created with `bc`.

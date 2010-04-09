@@ -19,6 +19,7 @@
 		</array>
 		<key>items</key>
 		<array>
+			<string>C7BFC1A1-3CBE-45AD-83E6-DC6B2AB817DB</string>
 			<string>CCFC0D0D-EC2B-4F86-A8EF-C6722D8D3EF3</string>
 			<string>986B2185-27B0-4CE5-82DE-7524C1710139</string>
 			<string>867DAECB-815E-4FE1-B5AE-059E60442D53</string>
@@ -51,6 +52,16 @@
 				<key>name</key>
 				<string>Modules</string>
 			</dict>
+			<key>C7BFC1A1-3CBE-45AD-83E6-DC6B2AB817DB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>76C1F92C-3788-4D90-96EF-F9B92959F5F6</string>
+					<string>2E5067EF-C24B-4FAC-BEB2-5B64CB7F209A</string>
+				</array>
+				<key>name</key>
+				<string>Breadcrumbs</string>
+			</dict>
 			<key>CCFC0D0D-EC2B-4F86-A8EF-C6722D8D3EF3</key>
 			<dict>
 				<key>items</key>
@@ -68,6 +79,8 @@
 	<key>ordering</key>
 	<array>
 		<string>021BE6D9-EEE7-41A6-A50D-3B66E859A295</string>
+		<string>76C1F92C-3788-4D90-96EF-F9B92959F5F6</string>
+		<string>2E5067EF-C24B-4FAC-BEB2-5B64CB7F209A</string>
 		<string>7B123F40-8BA2-4EAD-9CE0-ADBBDA384C3B</string>
 		<string>BB7E5C2F-CF7F-4E38-8007-BDE91084B09D</string>
 		<string>8338098B-9D5B-44CE-A534-AEF7D7FF55D1</string>
